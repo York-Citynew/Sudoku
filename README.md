@@ -1,2 +1,3 @@
 # Sudoku
- Sudoku Generator/Solver
+
+Python Implementation using backtracking technique
